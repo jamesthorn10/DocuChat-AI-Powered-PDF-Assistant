@@ -1,7 +1,7 @@
 import os
 import streamlit as st
 
-os.environ["GOOGLE_API_KEY"] = "AIzaSyCcHsmTPZNYrJfDDjhlQDxTM9URyOSjV5E"
+os.environ["GOOGLE_API_KEY"] = 
 
 from dotenv import load_dotenv
 from PyPDF2 import PdfReader
